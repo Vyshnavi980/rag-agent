@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+httpx==0.24.0
+transformers==4.37.2
+torch==2.1.1
+numpy==1.24.4
+openai==0.28.0
+requests==2.31.0
+pydantic==1.10.7

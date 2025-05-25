@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+httpx==0.24.0
+requests==2.31.0
+aiofiles==23.2.1
+huggingface_hub==0.13.4
+python-multipart

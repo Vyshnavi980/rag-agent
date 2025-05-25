@@ -1,0 +1,8 @@
+fastapi
+httpx
+pydantic
+uvicorn
+numpy
+faiss-cpu
+sentence-transformers==2.2.2
+torch==1.13.1
