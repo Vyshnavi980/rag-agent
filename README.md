@@ -31,9 +31,8 @@ Tech Stack
 1. Document Ingestion: Python, FastAPI, PDF/Text parsing libraries.
 2. Embedding & Indexing: Python, Sentence Transformers, FAISS.
 3. Query Service: Python, FastAPI, REST API.
-4. LLM Service: Python, FastAPI, OpenAI/Gemini API integration
-   
-5.Containerization: Docker, Docker Compose
+4. LLM Service: Python, FastAPI, OpenAI/Gemini API integration.
+5.Containerization: Docker, Docker Compose.
 
 
 Thanks for Reading !!
