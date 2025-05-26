@@ -27,11 +27,11 @@ docker compose up --build
 
 
 ## Tech Stack Overview
-Tech Stack                 |        Service	Technologies
-Document Ingestion	       |      Python, FastAPI, PDF/Text parsing libraries
+Tech Stack               |        Service	Technologies
+Document Ingestion	     |      Python, FastAPI, PDF/Text parsing libraries
 Embedding & Indexing 	   |      Python, Sentence Transformers, FAISS
 Query Service	           |      Python, FastAPI, REST API
-LLM Service	               |      Python, FastAPI, OpenAI/Gemini API integration
+LLM Service	             |      Python, FastAPI, OpenAI/Gemini API integration
 Containerization	       |      Docker, Docker Compose
 
 
