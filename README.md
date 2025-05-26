@@ -32,6 +32,7 @@ Tech Stack
 2. Embedding & Indexing: Python, Sentence Transformers, FAISS.
 3. Query Service: Python, FastAPI, REST API.
 4. LLM Service: Python, FastAPI, OpenAI/Gemini API integration
+   
 5.Containerization: Docker, Docker Compose
 
 
